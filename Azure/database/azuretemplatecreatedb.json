@@ -1,0 +1,16 @@
+{
+    "environment": "dev",
+    "projectname": "my test project",
+    "cloudprovider": "OCI",
+    "private": false,
+    "contents": [
+        {
+            "folder": "OCI",
+            "files": "templatefileoci.json"
+        },
+        {
+            "folder": "AWS",
+            "files": "templatefileaws.json"
+        }
+    ]
+}
